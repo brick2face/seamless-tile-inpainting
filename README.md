@@ -6,9 +6,9 @@ An [automatic1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stabl
 
 ## How to install
 
-**Option #1:** Clone this repo into the automatic1111 "extensions" folder.
+**Option #1:** Run automatic1111, install "Seamless Tile Inpainting" from the Extensions tab, then reset UI.
 
-**Option #2 *(COMING SOON)*:** Run automatic1111, install "Seamless Tile Inpainting" from the Extensions tab, then reset UI.
+**Option #2:** Clone this repo into the automatic1111 "extensions" folder.
 
 ## How to use
 1. Run [automatic1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) and make sure your selected model is [512-inpainting-ema.ckpt](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting/blob/main/512-inpainting-ema.ckpt) (or choose another inpainting model)
